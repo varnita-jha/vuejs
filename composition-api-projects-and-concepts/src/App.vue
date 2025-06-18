@@ -1,9 +1,11 @@
 <script setup>
-import MyComponent from './components/MyComponent.vue';
+// import HelloWorld from './components/HelloWorld.vue';
+// import MyComponent from './components/MyComponent.vue';
+import AttributeBinding from './components/AttributeBinding.vue';
 </script>
 
 <template>
-  <MyComponent/>
+  <AttributeBinding/>
 </template>
   
 <style scoped></style>
